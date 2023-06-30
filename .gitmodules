@@ -1,3 +1,6 @@
 [submodule "VR360VideoPlayer"]
 	path = VR360VideoPlayer
 	url = https://github.com/TranDucHuyVnuHcmUs/VR360VideoPlayer
+[submodule "ScreenClean_ARGame"]
+	path = ScreenClean_ARGame
+	url = https://github.com/TranDucHuyVnuHcmUs/ScreenClean_ARGame
